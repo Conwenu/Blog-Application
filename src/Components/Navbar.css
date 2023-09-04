@@ -1,0 +1,97 @@
+.fixed-top-border
+{
+    top:0;
+    width: 100%;
+    left: 0;
+    position: fixed;
+    right: 0;
+    z-index: 1030;
+    border: 3px solid black;
+    color: black;
+    font-size: x-large;
+    text-decoration: underline;
+    background: rgba(160, 153, 214, 0.772);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.1px);
+}
+.home
+{
+    color: black;
+    font-size: x-large;
+    text-align: center;
+    align-self: center;;
+    text-decoration: underline;
+}
+
+.addPostDiv
+{
+
+
+    padding-right: .5rem !important;
+    text-decoration: underline !important;
+    font-weight: 200;
+    line-height: 1;
+    padding: .35em .65em;
+    text-decoration-color: white;
+    color: white ;
+    
+
+    
+}
+
+
+.displayName{
+    margin-right: 5px;
+    text-decoration: underline !important;
+    
+}
+
+.arg
+{
+    background-color: #850a0a;
+}
+
+.logout
+{
+    border-radius: .2rem;
+    font-size: .875rem;
+    cursor: pointer;
+    border-style: solid;
+    border-width: 0;
+    display: inline-block;
+    text-align: center;
+    background: rgba(64, 59, 99);
+    color: white ;
+    backdrop-filter: blur(5.1px);
+    font-weight: 700;
+    padding: .35em .65em;
+    
+} 
+
+.user
+{
+    text-align: right;
+    text-decoration: underline;
+    padding-right: .5rem !important;
+}
+
+.NavHolder
+{
+    display: inline-block;
+    width: 100%;
+    height: 25%;
+}
+
+.NavItem
+{
+    display: inline-block;
+    width: fit-content;
+    padding-left: 10%;
+    padding-right: 5%;
+}
+
+.TempLogInNav
+{
+    padding-left: 25%;
+    padding-right: 25%;
+}

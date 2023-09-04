@@ -1,0 +1,39 @@
+.postText
+{
+    /* background-color: aqua; */
+    /* border-radius: 25px; */
+    inline-size: 750px;
+    /* display: flex; */
+    /* overflow: hidden; */
+    overflow-wrap: break-word;
+}
+
+.container
+{
+    /* display: flex;; */
+    margin: 0 auto;
+}
+.Author
+{
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 0;
+    /* width: fit-content; */
+    display: inline-block;
+    text-align: center;
+    background: rgba(64, 59, 99);
+    box-shadow: 0 4px 30px rgb(255, 255, 255);
+    color: white ;
+    backdrop-filter: blur(5.1px);
+    -webkit-backdrop-filter: blur(15.1px);
+    
+    font-weight: 700;
+    line-height: 1;
+    padding: .35em .65em;
+}
+
+.Title
+{
+    text-decoration: underline;;
+    text-shadow: 0 4px 30px rgb(255, 255, 255);;
+}

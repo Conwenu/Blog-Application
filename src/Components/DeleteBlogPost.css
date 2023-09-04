@@ -1,0 +1,12 @@
+.holder
+{
+    margin-left: 90%; 
+    align-items: center;
+    display: inline-block;
+}
+
+.deletePost
+{
+    text-decoration: underline;
+    align-self: center;
+}

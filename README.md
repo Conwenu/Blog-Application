@@ -13,8 +13,7 @@ React Router DOM,
 UUID,
 
 
-## Installing SPLASH
-https://www.youtube.com/watch?v=8q2K41QC2nQ&t=0s
+
 
 ## Installation Process
 Once you've cloned the repository and installed the above dependencies, you need to update the firebase configuration file to fit your own database.

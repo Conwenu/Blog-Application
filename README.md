@@ -2,6 +2,8 @@
 
 ## This application allows users to Create, Read, and Delete Blog Posts as well as comment and like said posts.
 
+## [Youtube Video Demo](https://youtu.be/tfxYuC-GKtQ)
+
 ## Languages and Technologies Used
 React,
 HTML5,
@@ -11,7 +13,6 @@ Firebase,
 React DOM,
 React Router DOM,
 UUID,
-
 
 
 
